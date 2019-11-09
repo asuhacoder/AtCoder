@@ -1,2 +1,2 @@
 # AtCoder
-My solutions
+My solutions for AtCoder
